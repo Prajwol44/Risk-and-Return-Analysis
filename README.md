@@ -40,6 +40,15 @@ Patterns held across **daily, weekly, and monthly** horizons.
 
 ##  Dashboard Preview
 
+### Data Visualization
+![Data Visualization](https://github.com/Prajwol44/Risk-and-Return-Analysis/blob/main/Data%20Visualization.png?raw=true)
+
+### Full Insights
+![Full Insights](https://github.com/Prajwol44/Risk-and-Return-Analysis/blob/main/Full%20Insights.png?raw=true)
+
+### Insights
+![Insights](https://github.com/Prajwol44/Risk-and-Return-Analysis/blob/main/Insights.png?raw=true)
+
 
 ---
 

@@ -27,8 +27,9 @@ Wipro and Asian Paints gave low returns (**0–3%**) with low risk (**5–7%**),
 **Moderate Returns**  
 Vedanta, Wilmar, and ONGC provided steady returns (**13–19%**) with moderate volatility.  
 
-**Nvidia**  
-Delivered ~**40% annual return** but with high volatility (~**35%**).  
+### Nvidia  
+Nvidia generated an annual return of around 40%, but it also carried high volatility close to 35%. This places it in the high-risk, high-reward category, similar to stocks like GMR Infra.
+
 
 **Portfolio Benefit**  
 The portfolio achieved ~**15.39% annual return** at only **5.35% risk**, showing clear diversification gains.  
